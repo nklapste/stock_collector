@@ -1,0 +1,3 @@
+python stock_collector --database all_stocks.sql --stocks INTC V MSFT IBM DIS AAPL GE JPM NKE WMT -v
+
+
