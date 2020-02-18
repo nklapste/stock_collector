@@ -27,7 +27,7 @@ file ``stocks.sql`` run the following command:
 
     stock-collector --database all_stocks.sql --stocks MSFT
 
-To get additional help on using stock_collector run:
+To get additional help on using stock-collector run:
 
 .. code-block:: console
 
